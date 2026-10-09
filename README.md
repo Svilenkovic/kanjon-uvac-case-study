@@ -4,7 +4,7 @@
 
 Site for five cabins by the Uvac nature reserve: where guests sleep, how they get there and what they can see nearby.
 
-**[kanjonuvac.rs](https://kanjonuvac.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/kanjon-uvac) · [Srpski](README.sr.md)
+**[kanjonuvac.rs](https://kanjonuvac.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/kanjon-uvac) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -39,7 +39,7 @@ The farm is outside any street grid, so arrival has its own page with a navigati
 | Mobile | 95 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `LodgingBusiness`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `LodgingBusiness`.
 
 ## Screenshots
 
