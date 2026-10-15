@@ -36,7 +36,7 @@ The farm is outside any street grid, so arrival has its own page with a navigati
 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Mobile | 95 | 100 | 100 | 100 |
+| Mobile | 97 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
 PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `LodgingBusiness`.
